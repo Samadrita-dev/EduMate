@@ -1,0 +1,29 @@
+================================================================================
+                    COURSEWORK & ASSIGNMENT SUBMISSION GUIDELINES
+================================================================================
+
+1. GENERAL SUBMISSION STANDARDS
+1.1 All coursework assignments must be submitted via the designated portal before 
+    11:59 PM on the stated deadline date.
+1.2 Acceptable formats: Structured PDF reports. Source code must include README documentation, 
+    requirements file, and test instructions in a zip archive or GitHub link.
+
+2. LATE SUBMISSION POLICY & DEDUCTIONS
+2.1 Grace Period: No automatic grace period exists without prior written approval.
+2.2 Penalty Scale:
+    - Up to 24 hours late: 10% penalty deduction from total earned marks.
+    - 24 to 48 hours late: 20% penalty deduction.
+    - 48 to 72 hours late: 40% penalty deduction.
+    - Greater than 72 hours late: 0 marks awarded (Strict cutoff).
+2.3 Extenuating circumstances (e.g. certified illness) must be submitted via the 
+    Student Grievance portal within 48 hours of the deadline.
+
+3. ACADEMIC INTEGRITY & CODE PLAGIARISM
+3.1 Individual submissions must represent the student's original effort.
+3.2 Code Plagiarism Detection:
+    - Code is automatically evaluated via MOSS (Measure of Software Similarity).
+    - Similarity indices exceeding 20% between student submissions trigger manual faculty review.
+    - Confirmed plagiarism results in zero marks for all involved parties and a letter of reprimand.
+3.3 Generative AI Policy:
+    - AI assistants (like ChatGPT, Claude, Copilot) may be utilized for conceptual clarification and debugging.
+    - Direct copy-pasting of AI-generated prose or code without attribution is prohibited.

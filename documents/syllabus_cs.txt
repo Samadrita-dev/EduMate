@@ -1,0 +1,31 @@
+================================================================================
+          DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING - 5TH SEMESTER SYLLABUS
+================================================================================
+
+1. CS501: OPERATING SYSTEMS (Credits: 4, Instructor: Dr. Rajesh Sharma)
+   - Unit 1: Introduction to Operating Systems, System Calls, Process Concepts.
+   - Unit 2: Process Scheduling Algorithms (FCFS, SJF, Round Robin, Multi-level Queue).
+   - Unit 3: Process Synchronization, Critical Section, Semaphores, Mutex, Deadlock Handling (Banker's Algorithm).
+   - Unit 4: Memory Management, Paging, Segmentation, Virtual Memory, Page Replacement (FIFO, LRU).
+   - Unit 5: Storage and File Systems, Disk Scheduling (SCAN, C-SCAN), I/O Systems.
+
+2. CS502: DATABASE MANAGEMENT SYSTEMS (Credits: 4, Instructor: Prof. Ananya Roy)
+   - Unit 1: Database System Concepts, Architecture, Entity-Relationship (ER) Modeling.
+   - Unit 2: Relational Model, Relational Algebra, Relational Calculus, SQL DDL/DML/DCL.
+   - Unit 3: Normalization Theory (1NF, 2NF, 3NF, BCNF, Multi-valued Dependencies 4NF).
+   - Unit 4: Transaction Processing, ACID Properties, Concurrency Control (2PL, Timestamp, MVCC), Recovery.
+   - Unit 5: Indexing and Hashing (B-trees, B+ trees), Query Processing and Optimization.
+
+3. CS503: COMPUTER NETWORKS (Credits: 4, Instructor: Dr. Vikram Malhotra)
+   - Unit 1: Network Architecture, OSI Reference Model, TCP/IP Suite, Physical Layer Transmission.
+   - Unit 2: Data Link Layer, Error Detection (CRC), Flow Control (Sliding Window), MAC Protocols (CSMA/CD).
+   - Unit 3: Network Layer, IP Addressing (IPv4/IPv6), Subnetting, Routing Algorithms (Dijkstra, Distance Vector, BGP).
+   - Unit 4: Transport Layer Protocols, TCP 3-way Handshake, Flow Control, Congestion Control (Tahoe, Reno), UDP.
+   - Unit 5: Application Layer (DNS, HTTP/HTTPS, SMTP, FTP), Network Security Fundamentals.
+
+4. CS504: ARTIFICIAL INTELLIGENCE & MACHINE LEARNING (Credits: 3, Instructor: Dr. Sneha Kulkarni)
+   - Unit 1: Problem Solving by Search, State Spaces, BFS, DFS, Heuristic Search (A*, Greedy Best-First).
+   - Unit 2: Knowledge Representation, Propositional & First-Order Logic, Inference Mechanisms.
+   - Unit 3: Supervised Learning, Linear Regression, Logistic Regression, Decision Trees, Random Forests.
+   - Unit 4: Unsupervised Learning, K-Means Clustering, PCA, Neural Network Perceptron Foundations.
+   - Unit 5: Ethics in AI, Model Evaluation Metrics (Accuracy, Precision, Recall, F1-Score, ROC-AUC).

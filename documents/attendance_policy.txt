@@ -1,0 +1,40 @@
+================================================================================
+                    CAMPUS ACADEMIC ATTENDANCE POLICY (ACAD-POL-04)
+================================================================================
+
+1. MINIMUM ATTENDANCE REQUIREMENT
+1.1 Every registered student must attend a minimum of 75% of the total lectures, 
+    tutorials, and laboratory sessions conducted in each subject during the semester.
+1.2 Formula for Attendance Percentage:
+    Attendance % = (Total Classes Attended / Total Classes Conducted) * 100
+1.3 Students with attendance equal to or greater than 75% are unconditionally eligible 
+    to appear for the End-Semester Final Examinations.
+
+2. CONDONATION OF ATTENDANCE SHORTAGE (65% to 74.9%)
+2.1 The Dean of Academic Affairs may condone an attendance shortage between 65% and 74.9% 
+    strictly on the following grounds:
+    a) Prolonged illness or hospitalization, supported by a valid medical certificate 
+       issued by a registered medical practitioner and endorsed by the Campus Health Center. 
+       Medical documentation must be submitted within 3 working days of returning to campus.
+    b) Official deputation representing the College or University in recognized inter-collegiate 
+       sports tournaments, cultural festivals, hackathons, or academic conferences (Duty Leave).
+2.2 A prescribed condonation fee of $25 per subject applies for approved condonation cases.
+
+3. DETENTION (ATTENDANCE BELOW 65%)
+3.1 Students whose overall attendance in any subject is below 65% shall NOT be eligible 
+    for condonation under any circumstances.
+3.2 Such students will be formally "Detained" in that specific subject, debarred from the 
+    End-Semester Examination, and awarded the grade 'FA' (Failure due to Attendance).
+3.3 The detained subject must be re-registered as a backlog course in a subsequent semester 
+    or summer session.
+
+4. DUTY LEAVE (ON-DUTY PARTICIPATION)
+4.1 Maximum Duty Leave permissible is capped at 5 classes per subject per semester.
+4.2 Pre-approval from the Head of Department (HOD) is mandatory at least 48 hours prior to the event.
+
+5. MONITORING AND OFFICIAL RECORDS
+5.1 Attendance is officially recorded by faculty at the beginning of each lecture.
+5.2 Attendance percentages are refreshed bi-weekly. Warning notices are dispatched to 
+    students and guardians when attendance drops below 80%.
+5.3 Students do not have authorization to directly alter or override attendance logs. 
+    Discrepancies must be reported to the course instructor within 7 calendar days.
