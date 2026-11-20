@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+agents/Include/
+agents/Lib/
+agents/Scripts/
+agents/pyvenv.cfg
+venv/
+env/
+ENV/
+
+# Databases & caches
+*.sqlite3
+chroma_db/
+.cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+*.swp
